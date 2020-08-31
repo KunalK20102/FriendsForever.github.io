@@ -1,0 +1,212 @@
+.abc {
+  border: 1px solid red;
+  outline: 2px dashed blue;
+      }
+.bgcolo{background-color: #F7FF00 ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.bgcolor{background-color: #3498DB; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.shadooo{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.sidenap{
+    background-color: black;
+      }
+
+/*side napbar*/
+      <style>
+      body {
+        font-family: "Lato", sans-serif;
+      }
+
+      .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.10s;
+        padding-top: 60px;
+      }
+      /* Style the sidenav links and the dropdown button */
+      .sidenav a, .dropdown-btn {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 20px;
+        color: #818181;
+        display: block;
+        border: none;
+        background: none;
+        width: 100%;
+        text-align: left;
+        cursor: pointer;
+        outline: none;
+      }
+      /* On mouse-over */
+      .sidenav a:hover, .dropdown-btn:hover {
+        color: #f1f1f1;
+      }
+
+      /* Main content */
+      .main {
+        margin-left: 200px; /* Same as the width of the sidenav */
+        font-size: 20px; /* Increased text to enable scrolling */
+        padding: 0px 10px;
+      }
+
+      /* Add an active class to the active dropdown button */
+      .active {
+        background-color: green;
+        color: white;
+      }
+
+      /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+      .dropdown-container {
+        display: none;
+        background-color: #262626;
+        padding-left: 8px;
+      }
+
+      .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+      }
+
+      .sidenav a:hover {
+        color: #f1f1f1;
+      }
+
+      .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+      }
+
+      #main {
+        transition: margin-left .5s;
+        padding: 16px;
+      }
+
+      @media screen and (max-height: 450px) {
+        .sidenav {padding-top: 15px;}
+        .sidenav a {font-size: 18px;}
+      }
+      </style>
+/*finish side napbar*/
+  
+
+.aboutusclass{
+      color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+      
+}
+.kunal {
+		.container {
+	  position: relative;
+	}
+
+	.center {
+	  position: absolute;
+	  left: 0;
+	  top: 50%;
+	  width: 100%;
+	  text-align: center;
+	  font-size: 18px;
+	}
+
+	img { 
+	  width: 100%;
+	  height: auto;
+	  opacity: 0.3;
+	}
+	</style>
+	}
+
+	img:hover {
+	  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+	}
+}
+
+
+
+}
+html,body,h1,h2,h3,h4 {font-family:"Lato", sans-serif}
+.mySlides {display:none}
+.w3-tag, .fa {cursor:pointer}
+.w3-tag {height:15px;width:15px;padding:0;margin-top:6px}
+
+
+.backcolor{
+  background-image: linear-gradient(to right, red,orange,yellow,green);
+}
+.bckcolor{
+  background-image: linear-gradient(to right,blue,indigo,violet);
+}
+/*fonts css3*/
+@font-face{
+  font-family: kunal1;
+  src:url('ChineseDragon.ttf');
+}
+.firstfont{
+font-family: kunal1;
+}
+@font-face{
+  font-family: kunal2;
+  src:url('osaka-re.ttf');
+}
+.secondfont{
+  font-family: kunal2
+}
+@font-face{
+  font-family: kunal3;
+  src:url('Precious.ttf');
+}
+.thirdfont{
+  font-family: kunal3
+}
+@font-face{
+  font-family: kunal4;
+  src:url('go3v2.ttf');
+}
+.fourthfont{
+  font-family: kunal4
+}
+@font-face{
+  font-family: kunal5;
+  src:url('Karate.ttf');
+}
+.fifthfont{
+  font-family: kunal5
+}
+@font-face{
+  font-family: kunal6;
+  src:url('Old Japanese.otf');
+}
+.sixthfont{
+  font-family: kunal6
+}
+@font-face{
+  font-family: kunal7;
+  src:url('FTNIPD.TTF');
+}
+.seventhfont{
+  font-family: kunal7
+}
+@font-face{
+  font-family: kunal8;
+  src:url('vtks morning rain 3D.ttf');
+}
+.eighthfont{
+  font-family: kunal8
+}
+/*finish fonts css3*/
+.cards_shadow{
+  padding: 30px 50px 75px 100px;
+}
+/*second page search bar*/
+

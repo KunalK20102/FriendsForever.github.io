@@ -1,0 +1,28 @@
+body {
+  background-color:#ce3635;
+  text-align: center;
+  color:#fff;
+  padding-top:10em;
+}
+
+* { color:#fff; text-decoration: none;}
+.ml3 {
+  font-weight: 500;
+  font-size: 2em;
+}
+@font-face{
+  font-family: kunal1;
+  src:url('The.ttf');
+}
+.firstfont{
+font-family: kunal1;
+font-size: 50px;
+}
+@font-face{
+  font-family: kunal2;
+  src:url('.ttf');
+}
+.SECOfont{
+font-family: kunal2;
+font-size: 40px;
+}
